@@ -24,6 +24,8 @@ Each algorithm is written with clarity and learning in mind, making it easier to
 
 ✅ Support Vector Machine (SVM)
 
+✅ Perceptron
+
 More coming soon...
 
 📌 Why this repo?
