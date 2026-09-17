@@ -5,6 +5,7 @@ This repo is a growing collection of scratch implementations of the most common 
 Each algorithm is written with clarity and learning in mind, making it easier to understand what’s happening under the hood.
 
 🚀 What's Inside (so far)
+
 ✅ Linear Regression
 
 ✅ Logistic Regression
@@ -26,11 +27,6 @@ If you're learning ML or mentoring others, you'll know how important it is to tr
 
 ## How to Use
 Clone the repo and run any file directly — no extra dependencies required beyond the basics (numpy, matplotlib, sklearn for datasets).
-
-
-git clone https://github.com/your-username/scratchml.git
-cd scratchml
-python linear_regression.py 
 
 
 # 🔄 Still a Work in Progress
