@@ -20,6 +20,10 @@ Each algorithm is written with clarity and learning in mind, making it easier to
 
 ✅ K-Means Clustering
 
+✅ Naive Bayes
+
+✅ Support Vector Machine (SVM)
+
 More coming soon...
 
 📌 Why this repo?
