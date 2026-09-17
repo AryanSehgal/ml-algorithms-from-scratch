@@ -1,4 +1,4 @@
- # ScratchML: ML Algorithms from Scratch
+ # ML Algorithms from Scratch
  
 This repo is a growing collection of scratch implementations of the most common conventional machine learning algorithms — built without relying on high-level libraries like scikit-learn.
 
